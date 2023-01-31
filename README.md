@@ -1,6 +1,6 @@
 # Skills
 * Web Technologies
-  * [Web-sivuston](https://student.labranet.jamk.fi/~M9824/) tekemistä (html, css ja javascript),
+  * [Web-sivuston](https://student.labranet.jamk.fi/~N3630/) tekemistä (html, css ja javascript),
   * Tehty AMK-valintakokeena
 * Cyber Security
   * Penetraatiotestausta, pwnlab:init (VulnHub)
