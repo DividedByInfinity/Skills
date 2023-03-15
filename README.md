@@ -9,8 +9,8 @@
 * Linux Servers
   * Network setup and firewalling (firewalld, fail2ban), setting up http server (LAMP stack, wordpress), SELinux, setting up ssl, linux monitoring, SAMBA, setting up caching proxy server (squid), backups, introducing to docker and nextcloud
 * Encryption Techniques and Systems
-  * Olen kehittänyt [Encrypted Chat](https://github.com/DividedByInfinity/encrypted_chat) käyttäen Pythonia, ECDH ja AES salausmenetelmiä
-  * On olemassa toinen versio, jossa tehty End-to-end kryptaus
+  * Kehittänyt [KryptoChattia](https://github.com/DividedByInfinity/encrypted_chat) Pythonilla käyttäen ECDH ja AES salausmenetelmiä
+    * On olemassa toinen versio, jossa End-to-end kryptaus
 * Data Security Testing
   * Penetraatiotestausta, järjestelmien auditointia
 * Security Technologies
