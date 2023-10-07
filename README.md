@@ -22,6 +22,6 @@
 * Reverse Engineering
   * Assembly koodin tutkimista (linux, windows)
 * Attacks Defence and Protection
-  * APT28 ryhmän tutkimista, nixun haasteet: phishcap 1,2,3 ja bad memories 1,2,3, foreensiikkatyö jossa pääsin tutkimaan kyberhyökkäystä
+  * APT28 ryhmän tutkimista, nixun haasteet: phishcap 1,2,3 ja bad memories 1,2,3, forensiikkatyö jossa pääsin tutkimaan kyberhyökkäystä
 
 __Uusina harrastuksina:__ picoCTF, Challenge Z, Nixu challenges, VulnHub, cryptopals
